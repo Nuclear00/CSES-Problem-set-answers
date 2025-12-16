@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int n; // change here for testing
+int n;
 
 int odd() {
 	if(n % 2 == 1) {
